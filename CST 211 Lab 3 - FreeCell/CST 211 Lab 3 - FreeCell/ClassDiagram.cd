@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Array&lt;T&gt;">
+    <Position X="0.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAASAAABAAAAAAAAEkAAABAAAAgAAAIAAA=</HashCode>
+      <FileName>Array.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Array2D&lt;T&gt;">
+    <Position X="5.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAUCQIAAAAAEAAAAAAAAACAAAAEAAAAAAAAgQAEIAAA=</HashCode>
+      <FileName>Array2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayStack&lt;T&gt;">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEgAAAAAAAAAAAAACAAAAAAAAgCCIISAA=</HashCode>
+      <FileName>ArrayStack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card">
+    <Position X="12.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="Card::Rank" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Card.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Card::Suit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Card.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAAgCAAAQAAEARAAEQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deck">
+    <Position X="1.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAABAAAAAAAAAAAACBoAAAAEAA=</HashCode>
+      <FileName>Deck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAEAAAAABAAABgAAAgAAA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreeCell">
+    <Position X="12.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>FAAAIABAAAAABAAAoAAAABAAAgAAAgAEgAogAAAgAAA=</HashCode>
+      <FileName>FreeCell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBoard">
+    <Position X="7.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gBAARiQAIkgYhAAIegIAAEFAEAcAAAkgBIQoAAADJCA=</HashCode>
+      <FileName>GameBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KBInput">
+    <Position X="5.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAIAAAAAAAAAQAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>KBInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Linked&lt;T&gt;">
+    <Position X="3.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAIAIAggQAAABAFCIAAAEAEgQQAAAAAgAYAAAAA=</HashCode>
+      <FileName>Linked.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedStack&lt;T&gt;">
+    <Position X="10.25" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAFgAAAAAAAAAAAAACAAAAAAAQgAAAASAA=</HashCode>
+      <FileName>LinkedStack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node&lt;T&gt;">
+    <Position X="10.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAABEAAAIgAAAIAAACAAAAAgAAIAAAAgAgEAAAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Row&lt;T&gt;">
+    <Position X="10.25" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAACAAAAAAAAAAAAAAEgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Row.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenBuffer">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="ScreenBuffer::PointRC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ScreenBuffer.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QEAEAASUgAxEAggKgEAAAAAABAQAAAEAAIIAAEBAQAA=</HashCode>
+      <FileName>ScreenBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
